@@ -580,22 +580,17 @@ The code was always cracked. The instruction was always in the text. The temple 
 
 ---
 
-## Build Your Own Sacred Secretion Agent
+## The Practice Agent
 
-Publication III is not only a protocol to follow manually — it is a protocol that can be automated. The **Macintosh Sacred Secretion Agent** implements Publication III as a personal practice agent: it tracks the lunar Gemini transit using astronomical calculation, manages your cycle state in Postgres, and sends you guiding emails at each phase of the monthly cycle via Resend.
+Publication III is not only a protocol to follow manually — it is deployed as a live web application.
 
-**Source:** [`github.com/dm3n/macintosh`](https://github.com/dm3n/macintosh) → `services/agents/sacred-secretion/`
+**[sacred-secretion-agent.vercel.app](https://sacred-secretion-agent.vercel.app)**
 
-To build your own:
+Sign up with your name, email, and natal sun sign. The agent tracks the lunar cycle and sends you the right guidance at every phase of the monthly process — automatically, every month, for as long as you practice.
 
-1. Clone the Macintosh repo and navigate to `services/agents/sacred-secretion/`
-2. Set your natal sun sign in `src/lunar.js` (default is Gemini — change `=== 2` to your sign's index: Aries=0, Taurus=1, Gemini=2, Cancer=3, Leo=4, Virgo=5, Libra=6, Scorpio=7, Sagittarius=8, Capricorn=9, Aquarius=10, Pisces=11)
-3. Set your email in `src/emails.js`
-4. Add `RESEND_API_KEY` to your environment
-5. Run against a Postgres instance with the Macintosh schema applied
-6. Deploy as a daily cron (`0 7 * * *`) — the agent handles all sequencing automatically
+**Source:** [github.com/dm3n/sacred-secretion-agent](https://github.com/dm3n/sacred-secretion-agent)
 
-The agent tracks cycle state so it survives restarts and never sends the same email twice. One clean deployment runs indefinitely, month after month, for as long as you practice.
+The app is open source. Fork it, deploy it yourself, and adapt it to your own practice. The README in that repo contains full deployment instructions.
 
 ---
 
