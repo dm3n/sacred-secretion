@@ -47,7 +47,34 @@ This paper identifies what.
 
 ---
 
-## II. Reading the Bible as a Map
+## II. What Is Actually Happening in Your Body
+
+Here is the mechanism, in plain terms.
+
+Your nervous system is continuously bathed in a clear fluid — cerebrospinal fluid (CSF). CSF surrounds and protects the brain and spinal cord and moves through the craniospinal system. It is the water medium of the process, not the "Christos" itself.
+
+The **Christos** (the sacred secretion, the "anointing oil" in this framework) is a second thing: a subtle, specialised secretion traditionally described as arising from the medulla, whose form is read symbolically as mirroring the Ark of the Covenant, and then moving down through the spinal axis before rising again.
+
+So keep the distinction clear:
+
+- **CSF** = the bathing/protective fluid of the central nervous system
+- **Christos** = the sacred oil/secretion described in the initiatic tradition
+
+At the top of that column sits the **pineal gland** — a small pine-cone-shaped structure at the centre of the brain. René Descartes called it *"the principal seat of the soul"* in 1649. The Hindus called it the *ajna chakra*. The Egyptians called it the *Eye of Horus*. The Masons called it the *Eye of Providence*. Every major civilisation identified this specific organ as the point where the human meets the divine — independently, without apparent contact with each other.
+
+Modern neuroscience has confirmed that the pineal gland produces **endogenous DMT** — the same compound that, at sufficient concentrations, produces experiences people consistently describe as encounters with God, with absolute reality, with the ground of all existence *(Strassman, 2001; Barker et al., 2012)*.
+
+As the Christos descends through the 33 vertebrae it also passes the **claustrum** gate, this is where we get Santa Claus from. Santa coming down the chimney is christ coming down into human form; if that essence is not squandered, it ascends again to reach your pineal gland.
+
+The ancient world called this process the **sacred secretion** — the *Christos*, from the Greek for "anointed." George W. Carey, the biochemist who first mapped this reading in the early twentieth century, documented that this process follows a **monthly lunar cycle**: the secretion is produced from your medulla, descends through the 33 vertebrae spinal canal, rests in the solar plexus for two and a half days, and — under the right conditions — ascends back through the 33 vertebral stations to the pineal gland, where it catalyses what every tradition in human history has called *the divine experience*.
+
+> *"Know ye not that ye are the temple of God, and that the Spirit of God dwelleth in you?"* — 1 Corinthians 3:16
+
+The temple is your body. The spirit is the secretion. The question is whether you are letting it complete its ascent.
+
+---
+
+## III. Reading the Bible as a Map
 
 Jesus is not a historical figure. The bible is a personification of this sacred **physiological event**, encoded in allegorical language to preserve it across millennia.
 
@@ -77,34 +104,9 @@ The descending secretion is baptised in the canal. What rises is different in ki
 
 Not metaphor. Anatomy.
 
-The 33 years of Christ's life are the 33 vertebral stations the secretion passes through every month. Not a biography. A map of the spine.
+The 33 years of Christ's life are the 33 vertebral stations the secretion passes through every month. Not a biography. A personified map of this sacred process.
 
 ---
-
-## III. What Is Actually Happening in Your Body
-
-Here is the mechanism, in plain terms.
-
-Your nervous system is continuously bathed in a clear fluid — cerebrospinal fluid (CSF). CSF surrounds and protects the brain and spinal cord and moves through the craniospinal system. It is the water medium of the process, not the "Christos" itself.
-
-The **Christos** (the sacred secretion, the "anointing oil" in this framework) is a second thing: a subtle, specialised secretion traditionally described as arising from the medulla, whose form is read symbolically as mirroring the Ark of the Covenant, and then moving down through the spinal axis before rising again.
-
-So keep the distinction clear:
-
-- **CSF** = the bathing/protective fluid of the central nervous system
-- **Christos** = the sacred oil/secretion described in the initiatic tradition
-
-At the top of that column sits the **pineal gland** — a small pine-cone-shaped structure at the centre of the brain. René Descartes called it *"the principal seat of the soul"* in 1649. The Hindus called it the *ajna chakra*. The Egyptians called it the *Eye of Horus*. The Masons called it the *Eye of Providence*. Every major civilisation identified this specific organ as the point where the human meets the divine — independently, without apparent contact with each other.
-
-Modern neuroscience has confirmed that the pineal gland produces **endogenous DMT** — the same compound that, at sufficient concentrations, produces experiences people consistently describe as encounters with God, with absolute reality, with the ground of all existence *(Strassman, 2001; Barker et al., 2012)*.
-
-As the Christos descends through the 33 vertebrae it also passes the **claustrum** gate, this is where we get Santa Claus from. Santa coming down the chimney is christ coming down into human form; if that essence is not squandered, it ascends again to reach your pineal gland.
-
-The ancient world called this process the **sacred secretion** — the *Christos*, from the Greek for "anointed." George W. Carey, the biochemist who first mapped this reading in the early twentieth century, documented that this process follows a **monthly lunar cycle**: the secretion is produced from your medulla, descends through the 33 vertebrae spinal canal, rests in the solar plexus for two and a half days, and — under the right conditions — ascends back through the 33 vertebral stations to the pineal gland, where it catalyses what every tradition in human history has called *the divine experience*.
-
-> *"Know ye not that ye are the temple of God, and that the Spirit of God dwelleth in you?"* — 1 Corinthians 3:16
-
-The temple is your body. The spirit is the secretion. The question is whether you are letting it complete its ascent.
 
 ---
 
