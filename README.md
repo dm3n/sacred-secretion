@@ -580,6 +580,25 @@ The code was always cracked. The instruction was always in the text. The temple 
 
 ---
 
+## Build Your Own Sacred Secretion Agent
+
+Publication III is not only a protocol to follow manually — it is a protocol that can be automated. The **Macintosh Sacred Secretion Agent** implements Publication III as a personal practice agent: it tracks the lunar Gemini transit using astronomical calculation, manages your cycle state in Postgres, and sends you guiding emails at each phase of the monthly cycle via Resend.
+
+**Source:** [`github.com/dm3n/macintosh`](https://github.com/dm3n/macintosh) → `services/agents/sacred-secretion/`
+
+To build your own:
+
+1. Clone the Macintosh repo and navigate to `services/agents/sacred-secretion/`
+2. Set your natal sun sign in `src/lunar.js` (default is Gemini — change `=== 2` to your sign's index: Aries=0, Taurus=1, Gemini=2, Cancer=3, Leo=4, Virgo=5, Libra=6, Scorpio=7, Sagittarius=8, Capricorn=9, Aquarius=10, Pisces=11)
+3. Set your email in `src/emails.js`
+4. Add `RESEND_API_KEY` to your environment
+5. Run against a Postgres instance with the Macintosh schema applied
+6. Deploy as a daily cron (`0 7 * * *`) — the agent handles all sequencing automatically
+
+The agent tracks cycle state so it survives restarts and never sends the same email twice. One clean deployment runs indefinitely, month after month, for as long as you practice.
+
+---
+
 ## Compile All Three Papers
 
 ```bash
