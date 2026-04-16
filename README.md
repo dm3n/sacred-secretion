@@ -588,10 +588,6 @@ Publication III is not only a protocol to follow manually — it is deployed as 
 
 Sign up with your name, email, and natal sun sign. The agent tracks the lunar cycle and sends you the right guidance at every phase of the monthly process — automatically, every month, for as long as you practice.
 
-**Source:** [github.com/dm3n/sacred-secretion-agent](https://github.com/dm3n/sacred-secretion-agent)
-
-The app is open source. Fork it, deploy it yourself, and adapt it to your own practice. The README in that repo contains full deployment instructions.
-
 ---
 
 ## Compile All Three Papers
