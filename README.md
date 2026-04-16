@@ -51,13 +51,20 @@ This paper identifies what.
 
 Here is the mechanism, in plain terms.
 
-Your brain continuously produces a clear fluid — cerebrospinal fluid — that bathes the entire central nervous system and flows down the length of your spine. It is the most protected fluid in your body. It travels through a channel with exactly **33 stations**: 7 cervical, 12 thoracic, 5 lumbar, 5 sacral, 4 coccygeal vertebrae.
+Your nervous system is continuously bathed in a clear fluid — cerebrospinal fluid (CSF). CSF surrounds and protects the brain and spinal cord and moves through the craniospinal system. It is the water medium of the process, not the "Christos" itself.
+
+The **Christos** (the sacred secretion, the "anointing oil" in this framework) is a second thing: a subtle, specialised secretion traditionally described as arising near the lower brain/medulla region and then moving down through the spinal axis before rising again.
+
+So keep the distinction clear:
+
+- **CSF** = the bathing/protective fluid of the central nervous system
+- **Christos** = the sacred oil/secretion described in the initiatic tradition
 
 At the top of that column sits the **pineal gland** — a small pine-cone-shaped structure at the centre of the brain. René Descartes called it *"the principal seat of the soul"* in 1649. The Hindus called it the *ajna chakra*. The Egyptians called it the *Eye of Horus*. The Masons called it the *Eye of Providence*. Every major civilisation identified this specific organ as the point where the human meets the divine — independently, without apparent contact with each other.
 
 Modern neuroscience has confirmed that the pineal gland produces **endogenous DMT** — the same compound that, at sufficient concentrations, produces experiences people consistently describe as encounters with God, with absolute reality, with the ground of all existence *(Strassman, 2001; Barker et al., 2012)*.
 
-So: a fluid. A 33-station canal. A gland at the top that produces the neurochemical of the divine experience.
+So: CSF as the medium. Christos as the anointing secretion. A 33-station spinal column (7 cervical, 12 thoracic, 5 lumbar, 5 sacral, 4 coccygeal). A gland at the top associated with the neurochemical language of divine experience.
 
 The ancient world called this process the **sacred secretion** — the *Christos*, from the Greek for "anointed." George W. Carey, the biochemist who first mapped this reading in the early twentieth century, documented that this process follows a **monthly lunar cycle**: the secretion is produced, descends through the spinal canal, rests in the solar plexus for two and a half days, and — under the right conditions — ascends back through the 33 vertebral stations to the pineal gland, where it catalyses what every tradition in human history has called *the divine experience*.
 
