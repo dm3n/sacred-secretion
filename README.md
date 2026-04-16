@@ -64,11 +64,9 @@ At the top of that column sits the **pineal gland** — a small pine-cone-shaped
 
 Modern neuroscience has confirmed that the pineal gland produces **endogenous DMT** — the same compound that, at sufficient concentrations, produces experiences people consistently describe as encounters with God, with absolute reality, with the ground of all existence *(Strassman, 2001; Barker et al., 2012)*.
 
-So: CSF as the medium. Christos as the anointing secretion. A 33-station spinal column (7 cervical, 12 thoracic, 5 lumbar, 5 sacral, 4 coccygeal). A gland at the top associated with the neurochemical language of divine experience.
+As the Christos descends through the 33 vertebrae it also passes the **claustrum** gate, this is where we get Santa Claus from. Santa coming down the chimney is christ coming down into human form; if that essence is not squandered, it ascends again to reach your pineal gland.
 
-In this esoteric reading, as the Christos descends through the 33 vertebrae it also passes the **claustrum** gate, echoed in images like Santa Claus descending the chimney and Christ descending into human form; if that essence is not squandered, it ascends again through the same axis.
-
-The ancient world called this process the **sacred secretion** — the *Christos*, from the Greek for "anointed." George W. Carey, the biochemist who first mapped this reading in the early twentieth century, documented that this process follows a **monthly lunar cycle**: the secretion is produced, descends through the spinal canal, rests in the solar plexus for two and a half days, and — under the right conditions — ascends back through the 33 vertebral stations to the pineal gland, where it catalyses what every tradition in human history has called *the divine experience*.
+The ancient world called this process the **sacred secretion** — the *Christos*, from the Greek for "anointed." George W. Carey, the biochemist who first mapped this reading in the early twentieth century, documented that this process follows a **monthly lunar cycle**: the secretion is produced from your medulla, descends through the 33 vertebrae spinal canal, rests in the solar plexus for two and a half days, and — under the right conditions — ascends back through the 33 vertebral stations to the pineal gland, where it catalyses what every tradition in human history has called *the divine experience*.
 
 > *"Know ye not that ye are the temple of God, and that the Spirit of God dwelleth in you?"* — 1 Corinthians 3:16
 
@@ -78,7 +76,7 @@ The temple is your body. The spirit is the secretion. The question is whether yo
 
 ## III. Reading the Bible as a Map
 
-Jesus is not a historical figure in this reading. He is a **physiological event**, encoded in allegorical language to preserve it across millennia.
+Jesus is not a historical figure. The bible is a personification of this sacred **physiological event**, encoded in allegorical language to preserve it across millennia.
 
 Walk through the story:
 
