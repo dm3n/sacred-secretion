@@ -6,8 +6,8 @@
 
 ### Read the Paper
 
-- **[Read on GitHub](https://github.com/dm3n/sacred-secretion/blob/main/PAPER.md)** — full paper rendered in your browser
-- **[LaTeX source](https://github.com/dm3n/sacred-secretion/blob/main/main.tex)** — typeset version
+- **[Read the PDF on GitHub](https://github.com/dm3n/sacred-secretion/blob/main/main.pdf)** — fully typeset, renders inline in your browser
+- **[LaTeX source](https://github.com/dm3n/sacred-secretion/blob/main/main.tex)** — raw source
 - **Compile locally:** `make` (requires `pdflatex` and `biber`)
 
 ---
