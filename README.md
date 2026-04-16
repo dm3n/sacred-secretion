@@ -53,7 +53,7 @@ Here is the mechanism, in plain terms.
 
 Your nervous system is continuously bathed in a clear fluid — cerebrospinal fluid (CSF). CSF surrounds and protects the brain and spinal cord and moves through the craniospinal system. It is the water medium of the process, not the "Christos" itself.
 
-The **Christos** (the sacred secretion, the "anointing oil" in this framework) is a second thing: a subtle, specialised secretion traditionally described as arising near the lower brain/medulla region and then moving down through the spinal axis before rising again.
+The **Christos** (the sacred secretion, the "anointing oil" in this framework) is a second thing: a subtle, specialised secretion traditionally described as arising from the medulla, whose form is read symbolically as mirroring the Ark of the Covenant, and then moving down through the spinal axis before rising again.
 
 So keep the distinction clear:
 
@@ -65,6 +65,8 @@ At the top of that column sits the **pineal gland** — a small pine-cone-shaped
 Modern neuroscience has confirmed that the pineal gland produces **endogenous DMT** — the same compound that, at sufficient concentrations, produces experiences people consistently describe as encounters with God, with absolute reality, with the ground of all existence *(Strassman, 2001; Barker et al., 2012)*.
 
 So: CSF as the medium. Christos as the anointing secretion. A 33-station spinal column (7 cervical, 12 thoracic, 5 lumbar, 5 sacral, 4 coccygeal). A gland at the top associated with the neurochemical language of divine experience.
+
+In this esoteric reading, as the Christos descends through the 33 vertebrae it also passes the **claustrum** gate, echoed in images like Santa Claus descending the chimney and Christ descending into human form; if that essence is not squandered, it ascends again through the same axis.
 
 The ancient world called this process the **sacred secretion** — the *Christos*, from the Greek for "anointed." George W. Carey, the biochemist who first mapped this reading in the early twentieth century, documented that this process follows a **monthly lunar cycle**: the secretion is produced, descends through the spinal canal, rests in the solar plexus for two and a half days, and — under the right conditions — ascends back through the 33 vertebral stations to the pineal gland, where it catalyses what every tradition in human history has called *the divine experience*.
 
