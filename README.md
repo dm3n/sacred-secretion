@@ -38,7 +38,6 @@ Now notice:
 - Jesus of Nazareth lived and taught for **33 years**
 - The Scottish Rite of Freemasonry has **33 degrees** — the 33rd is the highest a man can reach
 - The Kabbalistic Tree of Life maps **33 structural elements** onto the human body
-- Jacob's dream in Genesis 28 shows a **ladder connecting earth to heaven** — and the Hebrew word for ladder, *Sulam*, has a numerical value of **130**, which is exactly ten times the value of *Echad* — "One"
 
 These traditions have no shared origin. They span different continents, different millennia, different languages. They arrived at the same number independently.
 
