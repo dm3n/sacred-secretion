@@ -584,7 +584,7 @@ The code was always cracked. The instruction was always in the text. The temple 
 
 Publication III is not only a protocol to follow manually — it is deployed as a live web application.
 
-**[sacred-secretion-agent.vercel.app](https://sacred-secretion-agent.vercel.app)**
+**[sacred-secretion-agent-2zug.vercel.app](https://sacred-secretion-agent-2zug.vercel.app)**
 
 Sign up with your name, email, and natal sun sign. The agent tracks the lunar cycle and sends you the right guidance at every phase of the monthly process — automatically, every month, for as long as you practice.
 
