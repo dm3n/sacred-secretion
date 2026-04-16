@@ -171,32 +171,13 @@ The knowledge was never hidden from the text.
 
 > *"The kingdom of God is within you."* — Luke 17:21
 
-The knowledge was never removed from the text. "The kingdom of God is within you" (Luke 17:21) has
-   always been there, in plain language, in every translation, in every edition. But it was       
-  surrounded by something more powerful than censorship: a personified story so vivid, so           
-  emotionally total, that it redirected every seeker's attention away from the body — where the
-  process actually occurs — and outward, toward a figure in history.                                
-                                                                                                    
-  When salvation wears a human face, walks on water, dies for your sins, and promises to return —   
-  you wait for him. You pray toward him. You build institutions in his name and place yourself in
-  permanent, humble relation to something outside yourself. The internal becomes the external. The  
-  physiological becomes the theological. And the 33 vertebrae of your own spine — the literal,      
-  anatomical channel through which the Christ event occurs monthly in your body — become invisible,
-  because you are not looking there. You are looking up.
+   The knowledge was never removed from the text. "The kingdom of God is within you" (Luke 17:21) has always been there, in plain language, in every translation, in every edition. But it was surrounded by something more powerful than censorship: a personified story so vivid, so emotionally total, that it redirected every seeker's attention away from the body — where the process actually occurs — and outward, toward a figure in history.    
 
-  This was not an accident. A humanity oriented toward an external saviour is a humanity that never 
-  completes the ascent. It is a humanity that can be organised, tithed, and governed by the very
-  institution that guards the story. The personification of the sacred secretion as a historical    
-  redeemer is the most effective suppression mechanism ever deployed — not because it erased the    
-  truth, but because it replaced the direction of attention. You cannot find within what you have
-  been trained, for two thousand years, to seek without.
+   When salvation wears a human face, walks on water, dies for your sins, and promises to return — you wait for him. You pray toward him. You build institutions in his name and place yourself in permanent, humble relation to something outside yourself. The internal becomes the external. The physiological becomes the theological. And the 33 vertebrae of your own spine — the literal, anatomical channel through which the Christ event occurs monthly in your body — become invisible, because you are not looking there. You are looking up.
 
-  The Christ is real. The resurrection is real. It happens every month, in your body, through 33    
-  stations of bone and fluid, culminating in a neurochemical event at the crown of your head that
-  every tradition on earth independently identified as the encounter with God. It was never coming  
-  from outside. It was never going to be delivered by anyone else. The saviour and the saved are the
-   same body, and the process requires nothing but your own continence, your own attention, and the
-  willingness to look in the direction every tradition always pointed: inward.
+  This was not an accident. A humanity oriented toward an external saviour is a humanity that never completes the ascent. It is a humanity that can be organized, tithed, and governed by the very institution that guards the story. The personification of the sacred secretion as a historical redeemer is the most effective suppression mechanism ever deployed — not because it erased the truth, but because it replaced the direction of attention. You cannot find within what you have been trained, for two thousand years, to seek without.
+
+  The Christ is real. The resurrection is real. It happens every month, in your body, through 33 stations of bone and fluid, culminating in a neurochemical event at the crown of your head that every tradition on earth independently identified as the encounter with God. It was never coming from outside. It was never going to be delivered by anyone else. The saviour and the saved are the same body, and the process requires nothing but your own continence, your own attention, and the willingness to look in the direction every tradition always pointed: inward.
 
 ---
 
