@@ -10,7 +10,8 @@ A three-paper series establishing the complete case for human divinity: the proo
 |-------------|-------|-----|
 | **I** | The Sacred Secretion — *The Proof* | [Read PDF](https://github.com/dm3n/sacred-secretion/blob/main/main.pdf) |
 | **II** | The Cipher of Numbers — *The Mathematics* | [Read PDF](https://github.com/dm3n/sacred-secretion/blob/main/numerology.pdf) |
-| **III** | The Map — *The Protocol* | [Read PDF](https://github.com/dm3n/sacred-secretion/blob/main/map.pdf) - [Use Agent](https://sacred-secretion-agent-2zug.vercel.app/)|
+| **III** | The Map — *The Protocol* | [Read PDF](https://github.com/dm3n/sacred-secretion/blob/main/map.pdf)
+[Use Agent](https://sacred-secretion-agent-2zug.vercel.app/)|
 
 ---
 
