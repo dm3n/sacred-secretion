@@ -198,4 +198,217 @@ Requires: `pdflatex`, `biber` (included in MacTeX / TeX Live)
 
 ## Full Bibliography
 
-See [`references.bib`](references.bib) for all 35 cited sources in BibLaTeX format.
+See [`references.bib`](references.bib) for all cited sources in BibLaTeX format.
+
+---
+---
+
+# Publication II — The Map
+
+**A Practical Manual for the Ascent of the Sacred Secretion**
+
+*Companion to The Sacred Secretion (Edgar, 2026)*
+
+---
+
+### Read the Paper
+
+- **[Read the PDF on GitHub](https://github.com/dm3n/sacred-secretion/blob/main/map.pdf)** — fully typeset, renders inline in your browser
+- **[LaTeX source](https://github.com/dm3n/sacred-secretion/blob/main/map.tex)** — raw source
+
+---
+
+## Abstract
+
+*The Sacred Secretion* established, through neuroanatomy, biblical exegesis, Kabbalistic scholarship, Hermetic philosophy, and quantum mind theory, that the human body contains a physiological mechanism — the monthly ascent of cerebrospinal fluid through the 33 vertebrae to the pineal gland — that the world's initiatic traditions encoded as the Christ, the Middle Pillar, the Taoist microcosmic orbit, and the Kabbalistic ascent to Keter.
+
+That paper was the proof. This paper is the protocol.
+
+Drawing on the same convergent traditions — now read as practical instruction rather than allegorical testimony — this paper presents a structured manual for any human being who wishes to undergo the process consciously: to preserve, cultivate, and complete the ascent of the sacred secretion, and through that completion, to realise in direct experience the truth that the Kingdom of God is within.
+
+---
+
+## Table of Contents
+
+1. [Introduction: From Proof to Practice](#i-introduction-from-proof-to-practice)
+2. [Discipline One: Preserving the Secretion](#ii-discipline-one-preserving-the-secretion)
+3. [Discipline Two: Purifying the Vessel](#iii-discipline-two-purifying-the-vessel)
+4. [Discipline Three: Cultivating the Ascent Through Meditation](#iv-discipline-three-cultivating-the-ascent-through-meditation)
+5. [Discipline Four: Dissolving the Ego](#v-discipline-four-dissolving-the-ego)
+6. [Discipline Five: Fasting](#vi-discipline-five-fasting)
+7. [Discipline Six: Light, Darkness, and the Circadian Architecture](#vii-discipline-six-light-darkness-and-the-circadian-architecture)
+8. [The Timeline: What to Expect and When](#viii-the-timeline-what-to-expect-and-when)
+9. [Conclusion: The Kingdom Was Always Within](#ix-conclusion-the-kingdom-was-always-within)
+
+---
+
+## I. Introduction: From Proof to Practice
+
+The first paper proved the territory exists. This paper hands you the map.
+
+A map that is only ever examined and never followed is a philosophical curiosity. The traditions that encoded this knowledge did not encode it for scholars. They encoded it for initiates — people who were prepared to undergo the process themselves and to discover, in direct experience rather than intellectual argument, that the Kingdom of God is precisely where Luke 17:21 says it is.
+
+Six disciplines. A monthly rhythm. A commitment to clarity, continence, and consistency that is demanding in proportion to what it produces.
+
+---
+
+## II. Discipline One: Preserving the Secretion
+
+> *"He that hath ears to hear, let him hear."* — Matthew 11:15
+
+The sacred secretion operates on a monthly rhythm governed by the lunar cycle. Each month, a specialised secretion is produced in the brain at the moment the moon transits the individual's natal sun sign. It descends into the solar plexus region over approximately two and a half days — the Gethsemane phase — before beginning its ascent.
+
+**This window is the most critical and vulnerable phase of the entire cycle.**
+
+Every initiatic tradition identified sexual expenditure as the primary mechanism of depletion: *brahmacharya* in Hinduism, semen retention in Taoism, celibacy in Christianity, abstinence in the Pythagorean school. The mechanism is not moralistic — it is physiological. The sacred secretion and the seminal fluid share a common biochemical substrate. When one is expelled, the other is depleted. The cycle must begin again the following month.
+
+**The protocol:** Track the lunar cycle. Know your natal sun sign. When the moon enters that sign each month, the window opens. For those two and a half days, preserve the vital essence completely. This single discipline is the foundation upon which all others rest. Without it, the remaining practices are refinements of a process that cannot complete.
+
+**Key sources:** Carey & Perry (1920, 1932); Yogananda (1946); Chia (1983, 2002)
+
+---
+
+## III. Discipline Two: Purifying the Vessel
+
+> *"Know ye not that ye are the temple of God?"* — 1 Corinthians 3:16
+
+The sacred secretion ascends through the specific biochemical environment of the spinal cord, brainstem, and diencephalon. The quality of that environment determines the quality of the ascent.
+
+**Physical purification:** Carey and Perry identify twelve cell salts — the inorganic mineral compounds of every tissue and fluid in the body — as the material substrate of the sacred secretion. Diet must supply all twelve: unprocessed whole foods, mineral-rich water, and the elimination of alcohol (identified by Carey as a direct chemical solvent of the secretion) and other systemic toxins.
+
+**Emotional purification:** Chronic anger, fear, and resentment flood the system with cortisol and adrenaline — compounds that directly degrade the biochemical channel through which the secretion must pass. The practice is not the suppression of emotion but its metabolisation: feeling fully without being consumed, without acting compulsively. This is what the Christian tradition calls *apatheia*, Buddhism calls *equanimity*, and the Stoics called *ataraxia*. It is a trainable neurological skill.
+
+**Key sources:** Carey & Perry (1932); Leproult et al. (1997)
+
+---
+
+## IV. Discipline Three: Cultivating the Ascent Through Meditation
+
+> *"The way up and the way down are one and the same."* — Heraclitus
+
+Three traditions independently developed the same meditative practice for cultivating the ascent:
+
+- **Kabbalah** — the Middle Pillar practice: sequential activation of the five central Sephirot through visualisation, breath, and vibrational sound *(Regardie, 1932)*
+- **Taoism** — the microcosmic orbit: circulating *qi* upward through the spinal column (Governor Vessel) and downward through the front of the body (Conception Vessel) *(Chia, 1983)*
+- **Yoga** — kundalini ascent through the seven chakras from base to crown *(Leadbeater, 1927; Yogananda, 1946)*
+
+All three are the same practice with different vocabularies.
+
+**The basic practice:**
+1. Sit with the spine erect — vertical orientation is the physical prerequisite for the ascent
+2. Breathe slowly and deeply; on each inhale draw the breath to the base of the spine; on each exhale allow attention to rise toward the crown
+3. Bring attention to the base of the spine; feel warmth or pressure; hold attention steady
+4. Move the attention upward slowly through each vertebral region — lumbar, thoracic, cervical, brainstem — to the crown
+5. Rest attention at the crown; observe without forcing
+
+**Minimum effective dose:** 30 minutes daily. Advanced practitioners recommend two sittings per day — morning and the hour before sleep.
+
+**On darkness:** The pineal gland is most active in complete darkness. Conduct the evening meditation in total darkness. Ancient mystery schools used underground chambers precisely for this reason. John of the Cross named this the *Dark Night of the Soul* — not spiritual despair, but deliberate entry into darkness as the condition for inner illumination *(John of the Cross, 1578)*.
+
+**Key sources:** Regardie (1932); Chia (1983); Leadbeater (1927); Strassman (2001); Acosta-Galvis & Crespo (2017)
+
+---
+
+## V. Discipline Four: Dissolving the Ego
+
+> *"Unless a grain of wheat falls into the earth and dies, it remains alone."* — John 12:24
+
+The ego — the narrative self, the story of "I" — is the most fundamental blockage to the secretion's ascent. This is not metaphorical. Ego identification activates the sympathetic nervous system continuously, flooding the spinal channel with cortisol and adrenaline. The descent from sympathetic to parasympathetic — from defence to receptivity — is not merely desirable for the process. It *is* the process. The ancients called this surrender. It is simultaneously a psychological and a neurological event.
+
+Every tradition is unambiguous: the Gnostic Thomas records Jesus teaching that the one who finds the Kingdom has "died" before death; the Kabbalistic tradition describes the crossing of the Abyss as the dissolution of the personal self into the universal; the yogic tradition calls this *samadhi*.
+
+**The practice — witness consciousness (*sakshi bhava*):** Whenever you notice identification with a thought — a narrative about yourself, a grievance, a fear — simply name it. "Thinking." "Defending." "Wanting." Do not suppress it or follow it. Recognise it as weather in the field of awareness and return to the breath or the present moment. Ask: *"Am I aware of the present moment?"* The act of asking shifts the centre of gravity from ego to witness instantaneously *(Tolle, 1997)*.
+
+As this practice deepens, the moments of genuine witness consciousness will coincide precisely with the moments in which the body feels most open and the ascending current most alive. They are the same opening experienced at two levels simultaneously.
+
+**Key sources:** Nag Hammadi Library (Robinson, 1990); Regardie (1932); Krishnamurti (1954); Tolle (1997)
+
+---
+
+## VI. Discipline Five: Fasting
+
+> *"And Jesus, when he had fasted forty days and forty nights..."* — Matthew 4:2
+
+The convergence of fasting across initiatic traditions is among the most consistent data points in comparative religion. Jesus fasts forty days. Moses fasts forty days. Muhammad receives revelation during Ramadan. The Buddha's most significant breakthroughs occur during restricted eating. The Pythagorean school required fasting of new initiates. The Eleusinian mysteries began with several days of fasting.
+
+**The neurophysiology:** After 16–24 hours without food, the brain shifts to ketone metabolism — cleaner, more efficient, producing less oxidative stress. Fasting dramatically elevates brain-derived neurotrophic factor (BDNF), increasing neural plasticity. Critically, fasting amplifies the sensitivity of the brain's serotonergic and tryptaminergic systems — the same systems through which the pineal gland's melatonin and DMT production are regulated *(Mattson et al., 2017)*. The fasting practitioner's pineal gland is operating in a body whose sensitivity to its own endogenous tryptamines has been significantly amplified.
+
+The forty-day fast does not test willpower. It reconfigures the neurochemistry into the optimal state for initiation.
+
+**The protocol:**
+- **Daily:** 16:8 intermittent fasting (eat within an 8-hour window). Sustainable indefinitely; measurable benefits within 2–3 weeks
+- **Monthly:** Full fast or water/raw fruit only during the 2.5-day Gethsemane window — the period of the secretion's maximum vulnerability
+- **Seasonally:** A 3–7 day extended fast twice yearly, timed to a period of reduced obligation and increased meditative practice
+
+**Key sources:** Mattson et al. (2017); Matthew 4:2; Carey & Perry (1932)
+
+---
+
+## VII. Discipline Six: Light, Darkness, and the Circadian Architecture
+
+> *"If therefore thine eye be single, thy whole body shall be full of light."* — Matthew 6:22
+
+The "single eye" — the pineal gland — when fully activated floods the nervous system with the endogenous photonic experience produced by DMT. Its activation is governed by the quality and timing of external light. This discipline involves aligning both deliberately with the pineal gland's biological requirements.
+
+**Morning light:** The suprachiasmatic nucleus (SCN) — the brain's master clock — calibrates the entire circadian architecture against morning light input *(Acosta-Galvis & Crespo, 2017)*. Fifteen to thirty minutes of direct outdoor sunlight in the eyes (no sunglasses, no glass) within the first hour of sunrise will entrain the pineal's entire production cycle for the following twenty-four hours. The evening melatonin surge will occur earlier; the nocturnal DMT production window will extend deeper into the night; evening meditation will deepen measurably.
+
+Ancient temples were instruments for this purpose. Temple orientations in Egypt, Greece, and Mesoamerica consistently aligned the entrance to the rising sun at specific ceremonial dates — delivering precisely calibrated photonic input to practitioners at the moment of maximal physiological receptivity.
+
+**Evening darkness:** Artificial blue-spectrum light — smartphones, computers, LED lighting — directly suppresses melatonin by signalling to the SCN that it is still daytime. A practitioner using a smartphone until midnight is actively suppressing their pineal gland's peak production window.
+
+**The protocol:** Eliminate or significantly reduce artificial light after sunset. Use candlelight or amber-spectrum lighting if necessary. Conduct evening meditation in total darkness. Sleep in complete darkness — no standby LEDs, no phone screens, no streetlight through curtains. Within 2–3 weeks most practitioners report markedly enhanced dream intensity, hypnagogic imagery, and meditative depth — all signatures of elevated pineal activity.
+
+**Key sources:** Acosta-Galvis & Crespo (2017); Strassman (2001); Hall (1928); Schwaller de Lubicz (1998)
+
+---
+
+## VIII. The Timeline: What to Expect and When
+
+> *"With patience possess ye your souls."* — Luke 21:19
+
+### Weeks 1–3: Confirmation Signals
+
+Before a complete monthly cycle has elapsed, the practitioner will encounter unmistakable confirmation that the system is responding:
+
+- Unusual vividness or lucidity in dreams, with a quality of symbolic density
+- Spontaneous moments of heightened presence — the world appearing brighter, more textured, more immediate
+- Physical sensations along the spine during meditation — warmth, tingling, a sense of internal current
+- Reduction in compulsive thought as witness consciousness begins to stabilise
+- Increased sense of synchronicity — meaningful coincidences occurring with unusual frequency
+
+These are confirmation signals, not the destination. They indicate the map is accurate and the practitioner is on the path.
+
+### Months 1–3: Direct Contact
+
+After two to three completed monthly cycles, the meditative sessions during the critical window begin to produce states qualitatively different from ordinary meditation: categorical depth of stillness, spontaneous visual phenomena (phosphenes, geometric patterns, luminous fields), intensification of crown sensation, and post-sessional states of unusual clarity and openness that practitioners universally describe as feeling *more real* than usual.
+
+Do not chase these experiences or become attached to them. Forcing tightens the system. Attachment creates ego investment in "having spiritual experiences" — which itself becomes a blockage.
+
+### The Full Completion
+
+The full completion — what the Gospels encode as the Resurrection, what Kabbalah calls the opening of Keter to Ain Soph — cannot be adequately prepared for by description. Every tradition that has attempted to describe it has done so in the language of negation: not like ordinary consciousness, not containable within any prior conceptual framework.
+
+What can be said with consistency: the boundary between the individual self and the universe dissolves, temporarily and completely. The practitioner recognises — not as intellectual conclusion but as direct, self-evident, unquestionable perception — that what they have called "I" and what they have called "the world" are expressions of a single thing. One thing. Conscious. Always conscious. And that they have, in some sense that cannot be further reduced, always already been it.
+
+This is not an idea to be believed. It is an experience to be undergone.
+
+---
+
+## IX. Conclusion: The Kingdom Was Always Within
+
+The first paper proved that the map exists. This paper has handed it to you.
+
+Six disciplines. A monthly rhythm. Practiced together, they do not produce a spiritual experience in the sense of something exotic and external. They produce, progressively and irreversibly, the recognition of what was always already the case: that the universe is conscious, that you are an expression of that consciousness, and that the separation between the human and the divine is not an ontological reality but a perceptual habit — a habit that the sacred secretion, ascending through the 33 stations of the spinal column to the seat of the soul, gently, irresistibly dissolves.
+
+The code was always cracked. The instruction was always in the text. The temple was always your body. The number 33 was always the cipher.
+
+**Know thyself. The map is your spine. The destination is within.**
+
+---
+
+## Compile
+
+```bash
+export PATH="/Library/TeX/texbin:$PATH"
+pdflatex map.tex && biber map && pdflatex map.tex && pdflatex map.tex
+```
