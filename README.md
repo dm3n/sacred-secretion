@@ -35,7 +35,7 @@ The adult human spinal column contains exactly 33 vertebrae. Jesus of Nazareth w
 
 These are not four separate facts. They are one fact, written four times.
 
-A pattern this precise — recurring across millennia, across civilisations, across traditions with no apparent common source — does not admit of coincidence as an explanation. Coincidence is a singularity. This is a *structure*. And structures have causes. This paper proposes one.
+These are not four separate facts. They are one fact, written four times in four different languages across four different millennia. Coincidence is a singularity — it happens once. This has happened dozens of times, across every major civilisation on earth, with no apparent common source. That is not coincidence. That is a pattern. And patterns point to something. This paper identifies what.
 
 ---
 
